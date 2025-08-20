@@ -1,0 +1,4 @@
+This is Python programming.
+The topic today was File Handling
+After the class, the tutor gave us an assignment.
+We need to complete the assignment by Tuesday next week.
